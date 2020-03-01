@@ -7,8 +7,8 @@ body {
 }
 
 #main {
-    background-image: url(../img/en-construccion.png);
-    background-repeat: no-repeat;
+   /* background-image: url(../img/en-construccion.png);
+    background-repeat: no-repeat; */
     position: fixed;
     /* Hidden by default */
     width: 100%;
